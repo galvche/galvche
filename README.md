@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 ---
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/706818360259641344) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/germ%C3%A1n-%C3%A1lvarez-chermanne/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30082822/germ%c3%a1n-%c3%81lvarez-chermanne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:germanalvarez534@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/706818360259641344) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/germ%C3%A1n-%C3%A1lvarez-chermanne/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26895761/germ%c3%a1n-%c3%81lvarez-chermanne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:germanalvarez534@gmail.com) 
 
 ## 🏆 GitHub Trophies
 ---
