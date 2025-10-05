@@ -1,6 +1,6 @@
 # 💻 Tech Stack & Herramientas
 
-Mi repertorio de tecnologías clave. ¡Haz clic en los iconos para saber más!
+Mi repertorio de tecnologías clave
 
 ---
 
@@ -32,7 +32,6 @@ Mi repertorio de tecnologías clave. ¡Haz clic en los iconos para saber más!
 ---
 
 ## 🔗 Conéctate Conmigo (Socials)
-Puedes contactarme o seguir mi trabajo en estas plataformas. ¡Hagamos *networking*!
 
 <p align="center">
     <a href="https://www.linkedin.com/in/germ%C3%A1n-%C3%A1lvarez-chermanne/" target="_blank">
@@ -42,6 +41,6 @@ Puedes contactarme o seguir mi trabajo en estas plataformas. ¡Hagamos *networki
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
     </a>
     <a href="mailto:germanalvarez534@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/Walk-in-the-Woods/walk-in-the-woods.github.io/master/assets/images/icons/envelope.svg" alt="Email" width="40" height="40"/>
     </a>
 </p>
